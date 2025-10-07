@@ -1,12 +1,11 @@
 # Oracle Database PDB Management - Assignment II
 
-## 📋 Student Information
+## 📋 My Information
 
-- **Name:** Nshuti Sano Delphin
-- **Student ID:** 27903
+- **Name: Nshuti Sano Delphin
+- **Student ID: 27903
 - **Course:** Database Development with PL/SQL (INSY 8311)
-- **Instructor:** Eric Maniraguha
-- **Institution:** Adventist University of Central Africa (AUCA)
+- **Institution: Adventist University of Central Africa (AUCA)
 - **Date:** October 2025
 
 ---
@@ -20,7 +19,7 @@ This assignment demonstrates Oracle Database administration skills including cre
 ## 🗂️ Repository Structure
 
 ```
-oracle-pdb-assignment-27903/
+oracle-pdb-assignment-27903-Delphin-Sano-Nshuti/
 │
 ├── README.md                     # This file
 ├── queries/                      # SQL scripts
@@ -140,7 +139,7 @@ Configured OEM for database monitoring:
 
 1. Clone repository:
    ```bash
-   git clone https://github.com/[your-username]/oracle-pdb-assignment-27903.git
+   git clone https://github.com/nshuti717/oracle-pdb-assignment-27903-Delphin-Sano-Nshuti.git
    ```
 
 2. Connect to Oracle:
@@ -177,7 +176,7 @@ INSY 8311 - Database Development with PL/SQL
 
 ## 🙏 Acknowledgments
 
-Special thanks to my lecture Eric Maniraguha for comprehensive guidance and lecture materials.
+Special thanks to my lecturer Eric Maniraguha for comprehensive guidance and lecture materials.
 
 ---
 
